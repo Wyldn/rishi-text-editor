@@ -16,12 +16,15 @@
   "author": "Stella Ling",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^1.4.1"
+    "nodemon": "^1.4.1",
+    "webpack": "^5.91.0",
+    "webpack-dev-server": "^5.0.4",
+    "webpack-pwa-manifest": "^4.3.0"
   },
   "repository": {
     "type": "git",
